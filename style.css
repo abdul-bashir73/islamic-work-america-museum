@@ -55,6 +55,13 @@ body {
   margin: 40px auto;
   padding: 0 20px 60px;
 }
+.hero {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
 
 .intro-card {
   background: white;
