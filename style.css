@@ -68,3 +68,6 @@ body {
   border: 1px solid #d9d3c7;
   padding: 24px;
 }
+.card h3 {
+  text-align: center;
+}
