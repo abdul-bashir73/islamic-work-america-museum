@@ -1,7 +1,7 @@
 ## Live Website
 
-[View the GitHub Pages Site](https://YOURUSERNAME.github.io/YOUR-REPO-NAME/)
+[View the GitHub Pages Site](https://abdul-bashir73.github.io/islamic-work-america-museum/)
 
 ## Scrollytelling Page
 
-[View the Scrollytelling Project](https://YOURUSERNAME.github.io/YOUR-REPO-NAME/scrollytelling.html)
+[View the Scrollytelling Project](https://abdul-bashir73.github.io/islamic-work-america-museum/scrollytelling.html)
